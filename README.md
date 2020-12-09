@@ -4,14 +4,16 @@
 <br/>
 <br/>
 
+
+  -> [Video explicativo](https://youtu.be/G0KQ8WiFRAg) <-
+                                  
+
+<br/>
+<br/>
+
 <div align="center">
-  [Video explicativo](https://youtu.be/G0KQ8WiFRAg)
-</div>                                   
-
-<br/>
-<br/>
-
 # ¿ Qué es I train ?
+  </div> 
 
 I train es una aplicación pensada para organizar tus entrenamientos, en la que podrás almacenar tus ejercicios con duración, repeticiones y descansos entre repeticiones del ejercicio.
 <br/>
