@@ -1,22 +1,25 @@
 <ion-header [translucent]="true">
     <ion-toolbar>
-        <ion-title class="ion-text-center">
+        <ion-title>
             Ejercicios
         </ion-title>
+        <ion-icon (click)="reorderItem()" class="ion-padding" color="yellow" slot="end" name="list">
+        </ion-icon>
     </ion-toolbar>
 </ion-header>
 
 <ion-content>
 
-    <ion-list>
+    <ion-reorder-group [disabled]="false" (ionItemReorder)="reorderItem($event)">
         <ion-item *ngFor="let exercise of exercisesService.getExercises()">
-            <ion-icon #first ion-icon color="bluelight" (click)="changeColor(first)" slot="start" #first ion-icon name="checkmark-circle-outline">
+            <ion-icon #first ion-icon color="bluelight" (click)="changeColor(first)" slot="start" name="checkmark-circle-outline">
             </ion-icon>
             <ion-label>{{exercise.title}}</ion-label>
             <ion-icon (click)="goTimer(exercise.id)" color="bluelight" slot="end" name="stopwatch"></ion-icon>
             <ion-icon (click)="goAddEdit(exercise.id)" color="bluelight" slot="end" name="menu"></ion-icon>
+            <ion-reorder *ngIf="toggle==true" slot="end"></ion-reorder>
         </ion-item>
-    </ion-list>
+    </ion-reorder-group>
 
     <ion-fab vertical="bottom" horizontal="end" slot="fixed">
         <ion-fab-button (click)="goAddEdit()" color="yellow">
