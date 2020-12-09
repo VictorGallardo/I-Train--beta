@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <h3 align="center">
-  <a href="https://https://youtu.be/p8xKH1b81Mg"><b>Video explicativo<b/></a> 
+  <a href="https:https://www.youtube.com/watch?v=p8xKH1b81Mg"><b>Video explicativo<b/></a> 
 </h3>
 
                                 
