@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "i-train",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
