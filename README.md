@@ -4,7 +4,7 @@
 
 
 
-                                                [Video explicativo ](https://youtu.be/G0KQ8WiFRAg)
+[Video explicativo](https://youtu.be/G0KQ8WiFRAg)
 
 ## ¿ Qué es I train ?
 
