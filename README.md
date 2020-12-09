@@ -3,11 +3,11 @@
 
 <br/>
 <br/>
+<h3 align="center">
+  <a href="https://youtu.be/G0KQ8WiFRAg"><b>Video explicativo<b/></a> |
+</h3>
 
-
-  [Video explicativo](https://youtu.be/G0KQ8WiFRAg)
-                                  
-
+                                
 <br/>
 <br/>
 
@@ -16,8 +16,10 @@
   </h1> 
   
 <br/>
+<br/>
 
 I train es una aplicación pensada para organizar tus entrenamientos, en la que podrás almacenar tus ejercicios con duración, repeticiones y descansos entre repeticiones del ejercicio.
+<br/>
 <br/>
 <br/>
 
