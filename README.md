@@ -4,7 +4,9 @@
 <br/>
 <br/>
 
-<h2 align="center">###[Video explicativo](https://youtu.be/G0KQ8WiFRAg)</h2>                                   
+<div align="center">
+  [Video explicativo](https://youtu.be/G0KQ8WiFRAg)
+</div>                                   
 
 <br/>
 <br/>
