@@ -1,34 +1,38 @@
 ![](img/logo.png)
 
 
+<br/>
+<br/>
 
-
-###                                           [Video explicativo](https://youtu.be/G0KQ8WiFRAg)
-
+##                                           [Video explicativo](https://youtu.be/G0KQ8WiFRAg)
+<br/>
+<br/>
+<br/>
 
 # ¿ Qué es I train ?
 
 I train es una aplicación pensada para organizar tus entrenamientos, en la que podrás almacenar tus ejercicios con duración, repeticiones y descansos entre repeticiones del ejercicio.
+<br/>
 
-## Inicio
+# Inicio
 
 ![](img/01.gif)
 
 De entrada nos encontramos con la pagina principal en la que un botón central nos redirige a nuestros entrenamientos.
 
-## Crear ejercicio 
+# Crear ejercicio 
 
 ![](img/02.gif)
 
 Mediante inputs, introducimos el nombre y descripción del ejercicio, después solo tenemos que configurar los tiempos de duración y descansos e introducir las repeticiones de las series.
 
-## Timer 
+# Timer 
 
 ![](img/03.gif)
 
 De momento esta en fase de pruebas, pero básicamente se basa en un cronómetro deportivo.
 
-## Edición y borrado de ejercicios
+# Edición y borrado de ejercicios
 
 ![](img/04.gif)
 
